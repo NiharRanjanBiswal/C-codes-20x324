@@ -5,7 +5,7 @@ using namespace std;
 
 class Wall
 {
-    private:
+   
     int length;
     
     public:
